@@ -10,7 +10,7 @@
     "@babel/polyfill": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "core-js": "^3.0.1",
-    "csv-parse": "^4.4.1",
+    "csv-parse": "^4.4.6",
     "del": "^4.1.0",
     "fontfaceobserver": "^2.0.13",
     "git-rev-sync": "^1.12.0",
