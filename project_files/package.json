@@ -33,7 +33,7 @@
     "rollup-plugin-babel": "^4.3.2",
     "rollup-plugin-commonjs": "^9.3.4",
     "rollup-plugin-node-resolve": "^4.2.3",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "url-search-params-polyfill": "^5.1.0"
   },
   "scripts": {
